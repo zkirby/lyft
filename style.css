@@ -1,0 +1,24 @@
+body {
+	font-family: 'Droid Sans', sans-serif;
+	background: #FFFFFF;
+}
+
+a {
+	text-decoration: none;
+}
+
+.lyft-container {
+	font-size: 224px;
+	text-align: left;
+	color: black;
+}
+
+#lyft {
+	color: #FF00BE;
+	opacity: 0.8;
+	cursor: pointer;
+}
+
+#lyft:hover {
+	opacity: 1;
+}
